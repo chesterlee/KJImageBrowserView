@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6F04076A-8449-41BD-A6FD-9B54A0EE535D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ImageBrowser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BD4A1955-E36A-4130-A6F9-6C40408A6133</key>
+		<string>https://github.com/chesterlee/KJImageBrowserView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ImageBrowser.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BD4A1955-E36A-4130-A6F9-6C40408A6133</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chesterlee/KJImageBrowserView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BD4A1955-E36A-4130-A6F9-6C40408A6133</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BD4A1955-E36A-4130-A6F9-6C40408A6133</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KJImageBrowserView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
